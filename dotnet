@@ -1,0 +1,11 @@
+A basic .NET program typically involves C# as the programming language and leverages the .NET platform for execution. The simplest example is a "Hello, World!" console application
+
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, World!");
+    }
+}
