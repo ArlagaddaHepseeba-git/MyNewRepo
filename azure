@@ -1,0 +1,6 @@
+Azure is a cloud computing platform from Microsoft that provides a wide range of over 200 products and services for building, running, and managing applications and services in the cloud. It offers a flexible and scalable environment for compute, storage, networking, analytics, and AI, hosted in a global network of Microsoft-managed data centers. Businesses can use Azure to optimize operations, improve decision-making, and accelerate developer productivity.  
+Tool	Purpose
+Azure Cost Management and Billing	Helps monitor, analyze, and control Azure spending with detailed reports and budget alerts.
+Azure Pricing Calculator	Estimates the cost of Azure services based on your configuration and usage assumptions.
+Azure Advisor	Provides personalized best-practice recommendations for cost optimization, security, reliability, and performance improvements.
+
